@@ -1,10 +1,10 @@
-## Hi there 👋
+## Hi there 👋 :octocat:
 
 ### **Frontend development**
 
 ### **About me**
 ---
-My name is Sergey and I'm studying frontend. Until recently, I lived in Russia and repaired musical instruments, but now I am in Dubai and I am trying to find my first job in a new direction for me.
+My name is Sergey and I'm studying frontend. 👨‍🎓 💻 Until recently, I lived in Russia and repaired musical instruments, 🎸 but now I am in Dubai and I am trying to find my first job in a new direction for me.
 
 Now I'm learning JavaScript and React, but I can already make good layout and use Bootstrap. Well, as you noticed, I know how to use GIT.
 
