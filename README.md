@@ -15,8 +15,8 @@ Now I'm learning **JavaScript** and **React**, but I can already make good layou
 * **Bootstrap** 
 > You can see here: [Buildcon](https://henry128bit.github.io/bootstrap-5-project/)
 * **GIT / GitHub**
-
 > Welcome to [my profile](https://github.com/Henry128bit)
+* **Figma**
 
 ### **Stats**
 
