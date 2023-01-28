@@ -11,7 +11,7 @@ Now I'm learning **JavaScript** and **React**, but I can already make good layou
 ### **Skills and Experience**
 ---
 * **HTML** + **CSS**
-> You can see here: [Discover Japan](https://henry128bit.github.io/discover-japan/)
+> You can see here: [Discover Japan](https://henry128bit.github.io/Basic-knowledge-of-CSS-and-HTML/)
 * **Bootstrap** 
 > You can see here: [Buildcon](https://henry128bit.github.io/bootstrap-5-project/)
 * **GIT / GitHub**
