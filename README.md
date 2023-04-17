@@ -11,9 +11,10 @@ Now I am taking a course on **JavaScript** and **REACT** on **Udemy**, but **I c
 ### **Skills and Experience**
 ---
 * **HTML** + **CSS**
-> You can see here: [Discover Japan](https://henry128bit.github.io/Basic-knowledge-of-CSS-and-HTML/)
-* **Bootstrap** 
-> You can see here: [Buildcon](https://henry128bit.github.io/Bootstrap-5-project/)
+* **JavaScript**
+* **jQuery**
+* **Bootstrap**
+* **Webpack**
 * **GIT / GitHub**
 * **Figma**
 
