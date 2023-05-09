@@ -17,6 +17,8 @@ Now I am taking a course on **JavaScript** and **REACT** on **Udemy**, but **I c
 * **Webpack**
 * **GIT / GitHub**
 * **Figma**
+* **REACT**
+* **Angular (Basic knowledge)**
 
 ### **Stats**
 
